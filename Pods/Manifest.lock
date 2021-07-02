@@ -1,0 +1,16 @@
+PODS:
+  - MathParser (1.5)
+
+DEPENDENCIES:
+  - MathParser
+
+SPEC REPOS:
+  trunk:
+    - MathParser
+
+SPEC CHECKSUMS:
+  MathParser: 158c9c5eab871aed90077d29517d9d2993f7fa87
+
+PODFILE CHECKSUM: 7720b60041b6ec8024d9fbc02f7a4cfbc4dc9003
+
+COCOAPODS: 1.9.3
